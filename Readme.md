@@ -7,6 +7,10 @@ This project presents a comprehensive A/B testing experiment comparing the effec
 ### Key Finding
 Reducing onboarding screens from 6 to 4 resulted in an **11.41% uplift in activation rate** with a **26.97% relative lift**, along with a **30% reduction in onboarding completion time**. This improvement is **statistically significant** (P < 0.0001).
 
+### Summary Sheet
+
+![Experiment Summary & Recommendations](images/Summary_Sheet.png)
+
 ---
 
 ## Experiment Overview
@@ -19,9 +23,6 @@ Reducing onboarding screens from 6 to 4 resulted in an **11.41% uplift in activa
 - **Sample Size:** 5,274 total users (2,664 Control, 2,610 Treatment)
 
 ---
-### Summary Sheet
-
-![Experiment Summary & Recommendations](images/Summary_Sheet.png)
 
 ### Business Impact Questions Answered
 
