@@ -77,17 +77,9 @@ This extremely low p-value (< 0.0001) provides overwhelming evidence that the 4-
 - **Geographic Distribution:** Users from US, UK, India, Canada, Australia, and Germany
 - **Device Diversity:** Android, iOS, and Web platforms
 
-### Data Quality
-The dataset includes:
-- Complete user journey tracking from initial onboarding through activation
-- Session duration metrics
-- Detailed dropout information (step-level granularity)
-- Cross-device and cross-geography insights
-
 ---
 
 ## Recommendation: Adopt 4-Step Onboarding
-
 
 1. **Improved Conversion:** The 4-step flow achieves a 53.72% activation rate vs. 42.30% for 6-step, a **+11.42 percentage point improvement**.
 
@@ -96,14 +88,6 @@ The dataset includes:
 3. **Statistically Proven:** With a P-value < 0.0001 and Z-score of 8.29, this result is not due to chance—it's a genuine behavioral change.
 
 4. **No Observable Trade-offs:** The experiment found no major negative impacts. Users are not dropping off at higher rates due to the streamlined flow.
-
-
-### Next Steps
-
-1. Gradual rollout to 10-25% of users for real-world validation
-2. Monitor cohort retention and engagement metrics for 30 days
-3. If metrics hold steady, full rollout to 100% of new users
-4. Archive 6-step flow after successful transition period
 
 ---
 
