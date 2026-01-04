@@ -36,12 +36,6 @@ Reducing onboarding screens from 6 to 4 resulted in an **11.41% uplift in activa
 
 ---
 
-## Experiment Results Dashboard
-
-![Onboarding A/B Testing Dashboard](images/Dashboard.png)
-
----
-
 ## Key Metrics Comparison
 
 | Metric | Control (6 Steps) | Treatment (4 Steps) | Impact |
